@@ -1,31 +1,35 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="广东珠江1" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-http://116.20.33.46:4321/udp/239.77.0.114:5146
+http://14.121.146.88:554/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-id="广东珠江2" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-http://113.65.8.165:8000/udp/239.77.0.114:5146
+http://116.20.33.46:4321/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-id="广东珠江3" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-http://113.65.189.2:54321/udp/239.77.0.114:5146
+http://14.121.146.88:30001/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-id="广东珠江4" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-http://125.90.231.56:4023/udp/239.77.0.1:5146
+http://14.126.28.81:8520/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-id="广东珠江5" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-http://119.131.240.27:8089/hls/2/index.m3u8
+
 #EXTINF:-1 tvg-id="广东新闻1" tvg-name="广东新闻" group-title="Jyson特制",广东新闻
 http://113.87.225.31:5000/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="广东新闻2" tvg-name="广东新闻" group-title="Jyson特制",广东新闻
 http://116.20.33.46:4321/udp/239.77.0.173:5146
 #EXTINF:-1 group-title="Jyson特制",广东卫视
-http://58.63.64.196:8888/udp/239.77.1.19:5146
+http://58.63.67.248:8888/udp/239.77.0.84:5146
 #EXTINF:-1 group-title="Jyson特制",广东卫视
-http://119.131.240.27:8089/hls/1/index.m3u8
+http://113.68.179.47:4022/udp/239.77.1.19:5146
 #EXTINF:-1 group-title="Jyson特制",广东体育
-http://219.137.29.130:4433/tsfile/live/0142_1.m3u8
+http://113.65.8.165:8000/udp/239.77.0.168:5146
 #EXTINF:-1 group-title="Jyson特制",广东体育
-http://lhq-cctv.8866.org:18181/tsfile/live/1223_1.m3u8
+http://113.65.8.165:8000/udp/239.77.0.112:5146
 #EXTINF:-1 group-title="Jyson特制",广东民生
 http://116.20.33.46:4321/udp/239.77.0.225:5146
 #EXTINF:-1 group-title="Jyson特制",广东南方
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 #EXTINF:-1 group-title="Jyson特制",广东南方
 http://219.135.208.218:8083/tsfile/live/1003_1.m3u8
-#EXTINF:-1 group-title="Jyson特制",翡翠台
+#EXTINF:-1 tvg-id="翡翠1" tvg-name="翡翠台" group-title="Jyson特制",翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="翡翠2" tvg-name="翡翠台" group-title="Jyson特制",翡翠台
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
+#EXTINF:-1 tvg-id="翡翠2" tvg-name="翡翠台" group-title="Jyson特制",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
