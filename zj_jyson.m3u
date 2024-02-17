@@ -31,5 +31,5 @@ http://219.135.208.218:8083/tsfile/live/1003_1.m3u8
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="翡翠2" tvg-name="翡翠台" group-title="Jyson特制",翡翠台
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
-#EXTINF:-1 tvg-id="翡翠2" tvg-name="翡翠台" group-title="Jyson特制",翡翠台
+#EXTINF:-1 tvg-id="翡翠3" tvg-name="翡翠台" group-title="Jyson特制",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
