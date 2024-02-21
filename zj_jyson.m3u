@@ -12,9 +12,9 @@ http://113.65.8.165:8000/udp/239.77.0.114:5146
 #EXTINF:-1 tvg-id="广东新闻1" tvg-name="广东新闻" group-title="Jyson特制",广东新闻
 http://113.87.225.31:5000/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="广东新闻2" tvg-name="广东新闻" group-title="Jyson特制",广东新闻
-http://116.20.33.46:4321/udp/239.77.0.173:5146
+http://113.101.119.52:808/hls/106/index.m3u8
 #EXTINF:-1 group-title="Jyson特制",广东卫视
-http://58.63.67.248:8888/udp/239.77.0.84:5146
+http://222.188.68.38:8888/newlive/live/hls/43/live.m3u8
 #EXTINF:-1 group-title="Jyson特制",广东卫视
 http://113.68.179.47:4022/udp/239.77.1.19:5146
 #EXTINF:-1 group-title="Jyson特制",广东体育
