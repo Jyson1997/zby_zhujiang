@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="广东珠江1" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=879d47ff3db9c4ac8a766a2d97927386-fg8tRGZd1ar1OLjfK2Sa%2FsJYJvvLwg0Rq1HvkSYZ3VjlRldl8bse4iLc9FAS2u019NNG0o8FVvwcrWbhhMgc9NQBkbdAYThoWTj%2BSFhMDGp2P4v36It5PMtIyjd5x2ziNC8w8aVliklUDEsDtPOOAODGVhdqN%2Brv4vo3%2B%2FqixqTzXxhgLaeUsdHICO1lCMtAt5BtXhP7d7iGFSY60rlYF%2FduVtmEyNTiuxtJ9iedz4EDx8wIPAlSPp66X9sgyNJ18BrVga%2FjDubDe8Yb9y1xcxi4J0oXLBGZWQlLY4yGPkfkzMnp2lsjHbZcbAvZmvtvfOcCYiR5WY%2FxXw91wCZX%2BUny%2F3Geo%2FOqJOeJQdyrQlLkzK3RA%2BrCtPz6nWH0%2F6tTjLZ5rSxE8AFqS%2F30RNTBHg%3D%3D
+https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=58ddd1a183bddabddc7b62ef1b3fabff-rB70SOaXFpoz4Y7JltD11qrG9dO3PtT7uO%2FAs5kOAZ3sXDuU76TxUsZwzyUtaojNFtrIZQmcYBkgastqzQUR%2FP2VrqVw6EE2AsaotdpVdfbNmW6jfpILiqYkpqxvkkoPi43Xj2y6pzVQuBZVck75dcpZ9zSBKw5lUVnR0pUHyglneWzVCJMhSoNoZwhkj0Bgz5o7EN1pN4Lkb26DuGdRGZ8OCClQGYPTqHy7w%2F3Pl19qlNMdTTiWQNPecljcwsUI6MUqa6O%2BXjU3qi18CrheVdrGMJxrtBpBFs5RSv%2FQLtTAF%2Bxuf6xJ9vW5Tt4gPaW0K0Bzdbm9NOETx85JoBomxP48qKTdkKQsT9CIa00C9P89uOKPSZdCpb2xzXU7fGWB
 #EXTINF:-1 tvg-id="广东珠江2" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-http://61.140.201.112:8028/udp/239.77.0.1:5146
+http://61.140.135.81:808/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="广东珠江3" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
 http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="广东珠江4" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
