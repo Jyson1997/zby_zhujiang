@@ -6,7 +6,7 @@ http://113.110.72.52:808/hls/105/index.m3u8
 #EXTINF:-1 tvg-id="广东珠江3" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
 http://113.101.119.76:808/hls/105/index.m3u8
 #EXTINF:-1 tvg-id="广东珠江4" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
+https://stream1.freetv.fun/967c330a56e8f2fed10ea053ac29b132d29e323680b5e20a53e3af6bcf7b2f54.m3u8
 #EXTINF:-1 tvg-id="广东珠江5" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
 https://epg.pw/stream/72a0372fa098a8e50619f1d4f1b5d3185bbd8c1e0198402d5fb8e3d08995bfac.m3u8
 #EXTINF:-1 tvg-id="广东新闻1" tvg-name="广东新闻" group-title="Jyson特制",广东新闻
