@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="广东珠江1" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-http://tenfarr.com:4000/udp/239.77.0.1:5146
+http://121.33.239.242:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-id="广东珠江2" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-http://61.140.148.82:3333/udp/239.77.0.1:5146
+http://tenfarr.com:4000/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-id="广东珠江3" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
 http://120.197.112.28:8800/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="广东珠江4" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
