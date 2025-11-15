@@ -12,13 +12,15 @@ rtmp://116.63.53.136/live/gdzj
 #EXTINF:-1 tvg-id="广东新闻1" tvg-name="广东新闻" group-title="Jyson特制",广东新闻
 http://113.87.225.31:5000/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="广东新闻2" tvg-name="广东新闻" group-title="Jyson特制",广东新闻
-http://113.101.119.52:808/hls/106/index.m3u8
+http://121.37.185.74:18180/TV00000000000000000023@HHZT
 #EXTINF:-1 group-title="Jyson特制",广东卫视
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=2025
 #EXTINF:-1 group-title="Jyson特制",广东卫视
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=2310031483208039305
-#EXTINF:-1 group-title="Jyson特制",广东体育
-http://14.212.185.138:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="广东体育1" group-title="Jyson特制",广东体育
+http://113.109.250.8:9999/udp/239.77.0.112:5146
+#EXTINF:-1 tvg-id="广东体育2" group-title="Jyson特制",广东体育
+http://zjwc2021.f3322.net:8090/hls/108/index.m3u8
 #EXTINF:-1 group-title="Jyson特制",NewTV精品体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 group-title="Jyson特制",广东民生
