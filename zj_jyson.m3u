@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="广东珠江1" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+http://113.90.244.241:85/tsfile/live/1010_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="广东珠江2" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+http://120.197.2.134:9003/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="广东珠江3" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 tvg-id="广东珠江4" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-https://stream1.freetv.fun/300dbef3cf00ff3c75413c083ae6f3f9a2fe5a3f4cfa636d9bdf5ac08aa10237.ctv
+http://113.109.250.8:9999/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-id="广东珠江5" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
 rtmp://116.63.53.136/live/gdzj
 #EXTINF:-1 tvg-id="广东新闻1" tvg-name="广东新闻" group-title="Jyson特制",广东新闻
