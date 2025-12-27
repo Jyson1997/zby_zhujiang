@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="广东珠江1" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&t=1766374216&token=aa80b5d434e53a7e35cfd73aaeb8de07
 #EXTINF:-1 tvg-id="广东珠江2" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
 http://120.197.2.134:9003/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="广东珠江3" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&t=1766374216&token=aa80b5d434e53a7e35cfd73aaeb8de07
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 tvg-id="广东珠江4" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-http://113.109.250.8:9999/udp/239.77.0.1:5146
+https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-13.ctv
 #EXTINF:-1 tvg-id="广东珠江5" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.267579252589195161fbecf64d4705c1fOSS1603767828.png" group-title="Jyson特制",广东珠江
-rtmp://116.63.53.136/live/gdzj
+https://stream1.freetv.fun/acf21facd693f6b66b47a3f6d62ba75a163125df8ebcc40e87f88a28695cc529.ctv
 #EXTINF:-1 tvg-id="广东新闻1" tvg-name="广东新闻" group-title="Jyson特制",广东新闻
-http://113.87.225.31:5000/udp/239.77.0.173:5146
+https://stream1.freetv.fun/4adc57e8552ee25ef8a6f14bbb641e37d3264f612e569d5342f2c951385ded30.ctv
 #EXTINF:-1 tvg-id="广东新闻2" tvg-name="广东新闻" group-title="Jyson特制",广东新闻
-http://121.37.185.74:18180/TV00000000000000000023@HHZT
+https://stream1.freetv.fun/yan-dong-xin-wen-gao-qing-9.ctv
 #EXTINF:-1 group-title="Jyson特制",广东卫视
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=2025
 #EXTINF:-1 group-title="Jyson特制",广东卫视
@@ -24,7 +24,7 @@ http://zjwc2021.f3322.net:8090/hls/108/index.m3u8
 #EXTINF:-1 group-title="Jyson特制",NewTV精品体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 group-title="Jyson特制",广东民生
-http://116.20.33.46:4321/udp/239.77.0.225:5146
+https://stream1.freetv.fun/f431e18ece2f38abb2dfeb33d052113513dbc5f71723b4535f074c59cdc3ea6d.ctv
 #EXTINF:-1 group-title="Jyson特制",广东南方
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 #EXTINF:-1 group-title="Jyson特制",广东南方
@@ -34,4 +34,4 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 tvg-id="翡翠2" tvg-name="翡翠台" group-title="Jyson特制",翡翠台
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 #EXTINF:-1 tvg-id="翡翠3" tvg-name="翡翠台" group-title="Jyson特制",翡翠台
-http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+https://stream1.freetv.fun/tvbfei-cui-2.m3u8
