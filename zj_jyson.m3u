@@ -32,6 +32,6 @@ http://219.135.208.218:8083/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-id="翡翠1" tvg-name="翡翠台" group-title="Jyson特制",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 tvg-id="翡翠2" tvg-name="翡翠台" group-title="Jyson特制",翡翠台
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
+http://74.91.26.218:82/live/jade.m3u8
 #EXTINF:-1 tvg-id="翡翠3" tvg-name="翡翠台" group-title="Jyson特制",翡翠台
 https://stream1.freetv.fun/tvbfei-cui-2.m3u8
